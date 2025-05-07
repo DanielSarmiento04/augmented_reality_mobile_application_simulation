@@ -3,6 +3,9 @@
 
 <center>Jose Daniel Sarmiento , Manuel Ayala  | { jose2192232, jose2195529 } @correo.uis.edu.co </center>
 
+> [!IMPORTANT]
+> 3d models, must be requested from the authors
+
 ## Overview
 This project focuses on creating an augmented reality (AR) application aimed at improving maintenance knowledge management. The core idea is to use interactive 3D visualizations to guide users through maintenance procedures. The Python scripts in this repository are used within Blender to generate the necessary 3D animations for these procedures.
 
